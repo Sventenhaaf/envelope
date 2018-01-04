@@ -3,7 +3,9 @@ Hi, welcome to the envelope API docs. This repo describes the methods you can ca
 
 ## data
 type: property
-status: issue: should be private.
+
+status: issue: should be private
+
 description: This property may gives you all the data in the spreadsheet as an array of arrays. It can return the array in unpredictable sizes of null-arrays. Better use the method trimmedData().
 
 ## version
